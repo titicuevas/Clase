@@ -65,4 +65,5 @@ class EmpleController extends Controller
 
         return $empleados[0];
     }
+
 }
